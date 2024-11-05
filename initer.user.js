@@ -7,8 +7,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
 // @grant        unsafeWindow
-// @downloadURL  https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js
-// @updateURL  	https://touchedbydarkness.github.io/stuff/ppf_bot_2/initer.user.js
+// @downloadURL  https://github.com/m2zm-1/Pixmap.fun-Bot/raw/main/initer.user.js
+// @updateURL  	https://github.com/m2zm-1/Pixmap.fun-Bot/raw/main/initer.user.js
 // @connect		 	pixmap.fun
 // @connect		 	localhost
 // @connect		 	githubusercontent.com
