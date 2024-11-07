@@ -6,6 +6,8 @@ Sürüm 1.0:
 
 ------------------------------------------------------------------------------------------------------------------
 Pixmap.fun Adlı Pixel Atma Oyunu İçin Kısa Süreli A.F.K Kalanlar İçin Pixel Atıcak Bir Bot Kulağa İyi Geliyor :D
+-----------------------------------------------------------------------------------------------------------------
+İndirmeyi Nasıl Yapacağınızı Bilmiyorsanız: https://github.com/m2zm-1/Pixmap.fun-Bot/raw/refs/heads/main/initer.user.js
 ------------------------------------------------------------------------------------------------------------------
 Özellikler:
 
