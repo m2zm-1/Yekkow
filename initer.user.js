@@ -7,8 +7,8 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_openInTab
 // @grant        unsafeWindow
-// @downloadURL  
-// @updateURL  	
+// @downloadURL  https://github.com/m2zm-1/Pixmap.fun-Bot/raw/refs/heads/main/initer.user.js
+// @updateURL  	 https://github.com/m2zm-1/Pixmap.fun-Bot/raw/refs/heads/main/initer.user.js
 // @connect		 	pixmap.fun
 // @connect		 	localhost
 // @connect		 	githubusercontent.com
